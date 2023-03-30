@@ -1,7 +1,6 @@
 WebApiThrottling
 ==============
 
-[![Build status](https://ci.appveyor.com/api/projects/status/vdvuhk2c0tqds297?svg=true)](https://ci.appveyor.com/project/stefanprodan/WebApiThrottling) 
 [![NuGet](https://img.shields.io/nuget/v/WebApiThrottling.svg)](https://www.nuget.org/packages/WebApiThrottling)
 
 ASP.NET Web API Throttling handler, OWIN middleware and filter are designed to control the rate of requests that clients 
@@ -11,11 +10,6 @@ WebApiThrottling package is available on NuGet at [nuget.org/packages/WebApiThro
 Web API throttling can be configured using the built-in ThrottlePolicy. You can set multiple limits 
 for different scenarios like allowing an IP or Client to make a maximum number of calls per second, per minute, per hour per day or even per week.
 You can define these limits to address all requests made to an API or you can scope the limits to each API route.  
-
----
-If you are looking for the ASP.NET Core version please head to [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) project.
-
-AspNetCoreRateLimit is a full rewrite of WebApiThrottling and offers more flexibility in configuring rate limiting for Web API and MVC apps.
 
 ---
 
@@ -454,7 +448,7 @@ config.Filters.Add(new ThrottlingFilter()
         { 
             { "api-client-key-demo", new RateLimits { PerDay = 5000 } }
         },
-        //white list API keys that don’t require throttling
+        //white list API keys that donÂ’t require throttling
         ClientWhitelist = new List<string> { "admin-key" },
 
         //Endpoint rate limits will be loaded from EnableThrottling attribute
