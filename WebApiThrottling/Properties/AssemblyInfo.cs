@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("WebApiThrottling")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("PublicisGroupe")]
+[assembly: AssemblyCompany("Kapil Soni")]
 [assembly: AssemblyProduct("WebApiThrottling")]
-[assembly: AssemblyCopyright("Copyright © PublicisGroupe 2023")]
+[assembly: AssemblyCopyright("Copyright © Kapil Soni 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
