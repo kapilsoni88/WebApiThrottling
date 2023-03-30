@@ -1,0 +1,16 @@
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\obj\Debug\WebApiThrottling.csproj.AssemblyReference.cache
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\obj\Debug\WebApiThrottling.csproj.CoreCompileInputs.cache
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\WebApiThrottling.dll.config
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\WebApiThrottling.dll
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\WebApiThrottling.pdb
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\Microsoft.Owin.dll
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\System.Web.Http.dll
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\Microsoft.Owin.xml
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\bin\Debug\System.Web.Http.xml
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\obj\Debug\WebApiThrottling.csproj.CopyComplete
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\obj\Debug\WebApiThrottling.dll
+C:\Users\kapsoni3\source\repos\WebApiThrottling\WebApiThrottling\obj\Debug\WebApiThrottling.pdb
